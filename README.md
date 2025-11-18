@@ -1,11 +1,8 @@
 # 👋 Hello World
 
-I'm a B.Tech student in **Artificial Intelligence and Data Science**, passionate about quantum computing, ML/DL applications, and solving real-world problems through AI.
-
-## 📊 GitHub Stats
+I'm a 3rd year student in **Artificial Intelligence and Data Science**, passionate about quantum computing, ML/DL applications, and solving real-world problems through AI.
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=karthiksreenivasanp&show_icons=true&theme=radical)
-
 
 ## 🎓 About Me
 - 🔬 Exploring quantum machine learning and tensor networks
@@ -15,7 +12,6 @@ I'm a B.Tech student in **Artificial Intelligence and Data Science**, passionate
 - 💡 Interested in: IoT, biosecurity systems, AI applications
 
 ## 🔗 Links
-- 🌐 Portfolio: [Add if you have one]
 - 💼 LinkedIn: [in/karthik-sreenivasan-p-475796267](https://linkedin.com/in/karthik-sreenivasan-p-475796267)
 
 ## 🛠️ Skills
