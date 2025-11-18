@@ -19,6 +19,21 @@ I'm a 3rd year student in **Artificial Intelligence and Data Science**, passiona
 ### 🔤 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+### 🤖 AI / NLP Tools (from my projects)
+![NLTK](https://img.shields.io/badge/NLTK-323330?style=for-the-badge&logo=python&logoColor=white)
+![VADER](https://img.shields.io/badge/VADER_Sentiment-FF6F00?style=for-the-badge)
+![deep-translator](https://img.shields.io/badge/Deep%20Translator-1572B6?style=for-the-badge)
+![ReportLab](https://img.shields.io/badge/ReportLab-FF0000?style=for-the-badge)
+![pywin32](https://img.shields.io/badge/pywin32-00A2FF?style=for-the-badge)
+
+### 📝 Text & Speech Processing Skills
+- Parts-of-Speech Tagging (POS)
+- Rhyme Scheme Detection (ABAB, AABB…)
+- Figure of Speech Analysis (Simile, Metaphor, Alliteration)
+- Sentiment Tone Classification
+- Spell Checking Automation
+- PDF Generation & Font Rendering
+- Text-to-Speech (Windows SAPI5)
 ### 🤖 AI/ML & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
