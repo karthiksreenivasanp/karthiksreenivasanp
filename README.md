@@ -12,7 +12,6 @@ I'm a 3rd year student in **Artificial Intelligence and Data Science**, passiona
 - 💡 Interested in: IoT, biosecurity systems, AI applications
 
 ## 🔗 Links
-- 🌐 Portfolio: [Add if you have one]
 - 💼 LinkedIn: [in/karthik-sreenivasan-p-475796267](https://linkedin.com/in/karthik-sreenivasan-p-475796267)
 
 ## 🛠️ Skills
