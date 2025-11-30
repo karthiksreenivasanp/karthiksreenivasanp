@@ -7,7 +7,7 @@ I'm a 3rd year student in **Artificial Intelligence and Data Science**, passiona
 ## 🎓 About Me
 - 🔬 Exploring quantum machine learning and tensor networks
 - 🤖 Building intelligent systems for practical applications
-- 📚 Currently studying at [Your University]
+- 📚 Currently studying at SIMAT.
 - 🌱 Learning: TensorFlow, Deep Learning, NLP
 - 💡 Interested in: IoT, biosecurity systems, AI applications
 
