@@ -2,7 +2,6 @@
 
 I'm a 3rd year student in **Artificial Intelligence and Data Science**, passionate about quantum computing, ML/DL applications, and solving real-world problems through AI.
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=karthiksreenivasanp&show_icons=true&theme=radical)
 
 ## 🎓 About Me
 - 🔬 Exploring quantum machine learning and tensor networks
