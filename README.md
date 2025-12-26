@@ -1,29 +1,28 @@
 # 👋 Hello World
 
-I'm a 3rd year student in **Artificial Intelligence and Data Science**, passionate about Quantum Computing, Generative AI, and solving real-world problems through innovative software solutions.
+I'm a 3rd year student in **Artificial Intelligence and Data Science**.
 
 ## 🎓 About Me
-- 🔬 Exploring **Quantum Machine Learning** and **Tensor Networks**
-- 🤖 Building intelligent, offline AI systems and creative desktop tools
+- 🔬 Exploring **Machine Learning**
+- 🤖 Creative vast knowledge with rational decision making
 - 📚 Currently studying at **SIMAT**
-- 🌱 Learning: **Large Language Models (LLMs)**, **NLP**, and **Edge AI**
-- 💡 Interested in: **IoT**, **Biosecurity Systems**, and **AI Optimization**
+- 🌱 Learning: **Machine Learning**, **Python**, and **QNLP**
 
-## 🚀 Featured Projects
+## 🚀 Random Projects
 
 ### [📝 Grammer AI](https://github.com/karthiksreenivasanp/Grammer-AI)
-*> A 100% offline NLP tool designed to "humanize" AI-generated text using local LLMs.*
+*> A 100% offline NLP tool designed to "Convert Sentence to Same meaning structure" AI-generated text using local LLMs.*
 
 * **Tech Stack:** Python, Qwen-2.5-3B, llama-cpp-python
 * **Key Features:** Zero-lag performance on mid-range GPUs, "Chaos Mode" for high perplexity, and custom CLI interface.
-* **Role:** Lead Developer
+
 
 ### [✒️ LitLoom](https://github.com/karthiksreenivasanp/LitLoom)
 *> An elegant desktop application for writing and analyzing poetry.*
 
 * **Tech Stack:** Python, Tkinter, NLTK, ReportLab, Deep-Translator
 * **Key Features:** Rhyme scheme detection, sentiment analysis, figure of speech tagging, text-to-speech, and PDF export.
-* **Role:** Lead Developer
+* **Contributers:** Karthik Sreenivasan P, Gopi Krishnan, Akshaya R, Sooraj PN, Sreevals R
 
 ---
 
@@ -31,7 +30,7 @@ I'm a 3rd year student in **Artificial Intelligence and Data Science**, passiona
 
 ### 🔤 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### 🤖 AI/ML & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
