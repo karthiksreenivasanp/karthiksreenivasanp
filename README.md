@@ -1,12 +1,13 @@
-# 👋 Hey, I'm Karthik
+<div align="center">
 
-```python
-class Karthik:
-    role = "AI & Data Science Student"
-    interests = ["ML", "Offline NLP", "Creative AI", "QNLP"]
+# Karthik
+
+```bash
+AI & Data Science Student
+building weird, useful & creative things with AI
 ```
 
-<p align="left">
+<p>
   <a href="https://buymeacoffee.com/karthiksreenivasanp">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
          height="45"
@@ -15,48 +16,60 @@ class Karthik:
   </a>
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=karthiksreenivasanp&theme=tokyonight&hide_border=true&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=karthiksreenivasanp&theme=tokyonight&hide_border=true&show_icons=true&rank_icon=github)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=karthiksreenivasanp&theme=tokyonight&hide_border=true&layout=compact)
 
----
-
-## 🧠 About
-
-- 🎓 3rd Year AI & Data Science Student
-- 🤖 Exploring Machine Learning & NLP
-- ⚡ Building offline-first AI systems
-- 🐧 Linux & open-source enthusiast
+</div>
 
 ---
 
-## 🚀 Projects
+## ◉ About
 
-### 📝 [Grammer AI](https://github.com/karthiksreenivasanp/Grammer-AI)
-Offline NLP system using local LLMs.
-
-**Stack:** Python • Qwen-2.5-3B • llama-cpp-python
-
----
-
-### ✒️ [LitLoom](https://github.com/karthiksreenivasanp/LitLoom)
-Desktop app for poetry writing & analysis.
-
-**Stack:** Python • Tkinter • NLTK • ReportLab
+- 3rd Year AI & Data Science Student
+- Exploring Machine Learning, NLP & QNLP
+- Building offline-first AI systems
+- Linux user surviving on terminal magic
+- Interested in creative intelligence & future tech
 
 ---
 
-## ⚒️ Stack
+## ◉ Projects
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+### [Grammer AI](https://github.com/karthiksreenivasanp/Grammer-AI)
+
+Offline NLP tool that rewrites text locally using LLMs.  
+Fast. Private. Slightly chaotic.
+
+`Python • Qwen-2.5-3B • llama-cpp-python`
 
 ---
 
-<p align="left">
-  <a href="https://linkedin.com">LinkedIn</a> •
-  <a href="https://twitter.com">Twitter</a> •
-  <a href="https://instagram.com">Instagram</a>
+### [LitLoom](https://github.com/karthiksreenivasanp/LitLoom)
+
+Desktop app for poetry writing, analysis & exports.
+
+`Python • Tkinter • NLTK • ReportLab`
+
+---
+
+## ◉ Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
 </p>
+
+---
+
+<div align="center">
+
+### Connect
+
+[LinkedIn](https://linkedin.com) •
+[Twitter](https://twitter.com) •
+[Instagram](https://instagram.com)
+
+</div>
