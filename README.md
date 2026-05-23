@@ -10,16 +10,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=karthiksreenivasanp&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=karthiksreenivasanp&theme=tokyonight&hide_border=true&layout=compact)
 
-3rd year **Artificial Intelligence and Data Science** student focused on building practical AI tools and creative software.
-
----
-
-## 🎓 About Me
-
-- 🤖 Exploring Machine Learning, NLP, and QNLP
-- 🧠 Interested in AI systems with creative reasoning
-- 🐧 Linux and open-source enthusiast
-- 📚 Studying at **SIMAT**
+AI & Data Science student building practical AI tools, offline NLP systems, and creative software.
 
 ---
 
@@ -29,39 +20,35 @@
 
 Offline NLP tool for rewriting sentences while preserving meaning using local LLMs.
 
-- **Stack:** Python, Qwen-2.5-3B, llama-cpp-python
-- **Features:** Offline inference, Chaos Mode, fast local execution
+- Python
+- Qwen-2.5-3B
+- llama-cpp-python
 
 ---
 
 ### [✒️ LitLoom](https://github.com/karthiksreenivasanp/LitLoom)
 
-Desktop application for writing, analyzing, and exporting poetry.
+Desktop application for writing and analyzing poetry.
 
-- **Stack:** Python, Tkinter, NLTK, ReportLab
-- **Features:** Rhyme analysis, sentiment detection, TTS, PDF export
-- **Contributors:** Karthik Sreenivasan P, Gopi Krishnan, Akshaya R, Sooraj PN, Sreevals R
-
----
-
-## 🛠️ Skills
-
-### 🔤 Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-### 💻 Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- Python
+- Tkinter
+- NLTK
+- ReportLab
 
 ---
 
-## 🌐 Connect
+## 🛠️ Stack
 
-- [LinkedIn](https://linkedin.com)
-- [Twitter](https://twitter.com)
-- [Instagram](https://instagram.com)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+<p align="left">
+  <a href="https://linkedin.com">LinkedIn</a> •
+  <a href="https://twitter.com">Twitter</a> •
+  <a href="https://instagram.com">Instagram</a>
+</p>
