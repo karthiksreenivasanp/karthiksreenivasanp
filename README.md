@@ -1,10 +1,10 @@
 <div align="center">
 
-# Karthik
+# Karthik Sreenivasan P
 
 ```bash
 AI & Data Science Student
-building weird, useful & creative things with AI
+building practical AI tools, offline systems & creative software
 ```
 
 <p>
@@ -29,7 +29,7 @@ building weird, useful & creative things with AI
 - 3rd Year AI & Data Science Student
 - Exploring Machine Learning, NLP & QNLP
 - Building offline-first AI systems
-- Linux user surviving on terminal magic
+- Linux user with terminal-level confidence
 - Interested in creative intelligence & future tech
 
 ---
@@ -39,7 +39,7 @@ building weird, useful & creative things with AI
 ### [Grammer AI](https://github.com/karthiksreenivasanp/Grammer-AI)
 
 Offline NLP tool that rewrites text locally using LLMs.  
-Fast. Private. Slightly chaotic.
+Private, fast & fully offline.
 
 `Python • Qwen-2.5-3B • llama-cpp-python`
 
