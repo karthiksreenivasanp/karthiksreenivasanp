@@ -75,24 +75,7 @@ print(me.build())
 
 ---
 
-## ◉ Projects
 
-### [Grammer AI](https://github.com/karthiksreenivasanp/Grammer-AI)
-
-Offline CLI that rewrites text locally using LLMs.  
-Private, fast & fully offline.
-
-`Python • Qwen-2.5-3B • llama-cpp-python`
-
----
-
-### [LitLoom](https://github.com/karthiksreenivasanp/LitLoom)
-
-Desktop app for poetry writing, analysis & exports.
-
-`Python • Tkinter • NLTK • ReportLab`
-
----
 
 ## ◉ Stack
 
