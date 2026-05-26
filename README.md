@@ -2,6 +2,10 @@
 
 # Karthik Sreenivasan P
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=500&lines=%3E+booting+karthik.exe;%3E+loading+AI+systems;%3E+offline+tools+initialized;%3E+snake_game.dll+loaded" />
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
 </div>
 
 ```python
@@ -63,6 +67,7 @@ print(me.build())
          width="180"
          alt="Buy Me A Coffee" />
   </a>
+</p>
 
 ### Connect
 
