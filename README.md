@@ -7,9 +7,9 @@
 ```python
 class Karthik:
     """
-    AI & Data Science Student
+    Currenty Pursuing AI & DS
     building practical AI tools,
-    offline systems & creative software
+    offline systems & creative software,
     """
 
     role = "AI & Data Science Student"
@@ -23,19 +23,26 @@ class Karthik:
 
         "Languages": [
             "Python",
-            "HTML"
+            "HTML",
+            "CSS",
+            "JS",
+            "NodeJS",
+            "SQL"
         ],
 
         "Environment": [
             "Linux",
-            "Terminal Workflow"
+            "Terminal Workflow",
+            "Windows"
         ]
     }
 
     currently_building = [
         "Offline LLM Tools",
         "Desktop Applications",
-        "AI Utilities"
+        "AI Utilities",
+        "Web Dev",
+        "Mobile Apps"
     ]
 
     def build(self):
@@ -56,28 +63,9 @@ print(me.build())
          width="180"
          alt="Buy Me A Coffee" />
   </a>
-</p>
-
-![](https://github-readme-stats.vercel.app/api?username=karthiksreenivasanp&theme=tokyonight&hide_border=true&show_icons=true&rank_icon=github)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=karthiksreenivasanp&theme=tokyonight&hide_border=true&layout=compact)
-
-</div>
-
----
-
-## ◉ About
-
-- Currently Pursuing B.Tech AI & DS
-- Exploring Machine Learning, HTML, AI, Python
-- Linux & terminal-based workflow user
-- Interested in practical offline AI systems
-
----
 
 
-
-## ◉ Stack
+## ◉ stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
