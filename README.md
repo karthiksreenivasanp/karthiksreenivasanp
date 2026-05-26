@@ -71,7 +71,7 @@ print(me.build())
 
 ### Connect
 
-[LinkedIn](https://www.linkedin.com/in/karthik-sreenivasan-p/) •
+[LinkedIn](https://www.linkedin.com/in/karthiksreenivasanp/) •
 [X](https://x.com/karthikpsreeni) •
 [Instagram](https://www.instagram.com/karthiksreenivasanp)
 
