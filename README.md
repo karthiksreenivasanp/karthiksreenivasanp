@@ -26,19 +26,16 @@ building practical AI tools, offline systems & creative software
 
 ## ◉ About
 
-- 3rd Year AI & Data Science Student
-- Exploring Machine Learning, NLP & QNLP
-- Building offline-first AI systems
-- Linux user with terminal-level confidence
-- Interested in creative intelligence & future tech
-
+- Currently Pursuing B.Tech AI & DS
+- Exploring Machine Learning, HTML, AI, Python
+- user with terminal 
 ---
 
 ## ◉ Projects
 
 ### [Grammer AI](https://github.com/karthiksreenivasanp/Grammer-AI)
 
-Offline NLP tool that rewrites text locally using LLMs.  
+Offline CLI that rewrites text locally using LLMs.  
 Private, fast & fully offline.
 
 `Python • Qwen-2.5-3B • llama-cpp-python`
@@ -57,9 +54,18 @@ Desktop app for poetry writing, analysis & exports.
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-000000?style=flat-square&logo=openai&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Software_Development-6C63FF?style=flat-square&logo=github&logoColor=white"/>
+  
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
