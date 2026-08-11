@@ -22,16 +22,13 @@ class Karthik:
         "AI": [
             "Machine Learning",
             "Offline AI Systems",
-            "Creative Software"
+            "Deep Learning"
         ],
 
         "Languages": [
             "Python",
             "HTML",
-            "CSS",
-            "JS",
-            "NodeJS",
-            "SQL"
+            "CSS"
         ],
 
         "Environment": [
