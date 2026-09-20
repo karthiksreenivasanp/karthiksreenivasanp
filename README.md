@@ -11,12 +11,12 @@
 ```python
 class Karthik:
     """
-    Currenty Pursuing AI & DS
     building practical AI tools,
     offline systems & creative software,
+    website hosting
     """
 
-    role = "AI & Data Science Student"
+    role = "CS enthusiastic"
 
     interests = {
         "AI": [
